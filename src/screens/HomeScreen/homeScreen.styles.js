@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
   },
 
   row: {
+    width: '100%',
     paddingVertical: 10,
     borderBottomWidth: 1,
     borderBottomColor: 'rgba(0,0,0,0.3)',
