@@ -44,16 +44,19 @@ const styles = StyleSheet.create({
     fontSize: 30,
     fontWeight: 'bold',
     marginVertical: 20,
+    color: '#ffff',
   },
 
   date: {
     fontSize: 20,
     marginBottom: 20,
+    color: '#ffff',
   },
 
   details: {
     fontSize: 20,
     marginVertical: 5,
+    color: '#ffff',
   },
 
   image: {
